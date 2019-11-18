@@ -46,13 +46,6 @@ If you are using Centos then you can do like this:
   chmod 775 install.sh<br>
   ./install.sh</b>
   
-  If you are using <b>Ubuntu/Debian</b> then you can do like this:
-<b>sudo su<br>
-  apt-get install wget<br>
-  wget https://raw.githubusercontent.com/jvalters/ServerInstall/master/install.sh<br>
-  chmod 775 install.sh<br>
-  nano install.sh #Make changes<br> 
-  ./install.sh</b>
   <br><br><br>
   
 For more tutorials visit: https://valters.eu/category/blog/<br>
@@ -61,3 +54,8 @@ For docker containers: https://hub.docker.com/u/j90w<br>
 
 
 That's basically all this script will save your time and if you have multiple servers to configure for web hosting including VPS then also it will save a lot of time :)
+
+I believe if someone wants you can take this script as an Example and build whatever script you want. This script runs on Centos 7 and 8
+
+
+Thank you.
