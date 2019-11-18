@@ -51,7 +51,7 @@ If you are using Centos then you can do like this:
 For more tutorials visit: https://valters.eu/category/blog/<br>
 For more scripts use: https://github.com/jvalters<br>
 For docker containers: https://hub.docker.com/u/j90w<br>
-
+  <br><br><br>
 
 That's basically all this script will save your time and if you have multiple servers to configure for web hosting including VPS then also it will save a lot of time :)
 
