@@ -34,10 +34,10 @@ tzone="Europe/Riga" #Your timezone<br>
 
 On line 29 if you have an SSH key, then you can change this "#SSH keys to be added" with your SSH key
 <br>
-If you are an old fashion then Just copy the content of install.sh<br>
+<b>If you are an old fashion then Just copy the content of install.sh<br>
 on the server nano install.sh<br>
 chmod 775 install.sh<br>
-./install.sh<br>
+./install.sh<br></b>
 
 or you can <this will be updated part>
   
