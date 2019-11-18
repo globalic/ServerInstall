@@ -39,8 +39,19 @@ on the server nano install.sh<br>
 chmod 775 install.sh<br>
 ./install.sh<br></b>
 
-or you can <this will be updated part>
+If you are using Centos then you can do like this:
+<b>yum install wget<br>
+  wget https://raw.githubusercontent.com/jvalters/ServerInstall/master/install.sh<br>
+  chmod 775 install.sh<br>
+  ./install.sh</b>
   
+  If you are using <b>Ubuntu/Debian</b> then you can do like this:
+<b>sudo su<br>
+  apt-get install wget<br>
+  wget https://raw.githubusercontent.com/jvalters/ServerInstall/master/install.sh<br>
+  chmod 775 install.sh<br>
+  ./install.sh</b>
+  <br>
 For more tutorials visit: https://valters.eu/category/blog/<br>
 For more scripts use: https://github.com/jvalters<br>
 For docker containers: https://hub.docker.com/u/j90w<br>
